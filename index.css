@@ -1,0 +1,19 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    background: linear-gradient(to right,red,yellow);
+    top:15%;
+}
+
+h1{
+    width: 100%;
+    letter-spacing: 0.03em;
+    opacity: 0.6;
+    font-size: 3.5rem;
+}
+h2{
+    width: 100%;
+    letter-spacing: 0.3em;
+    opacity: 0.6;
+}
